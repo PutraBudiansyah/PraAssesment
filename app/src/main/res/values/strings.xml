@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PraAssesment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="d3if4201">d3if4201</string>
+    <string name="putrabudiansyah">PutraBudiansyah</string>
+    <string name="_6706184090">6706184090</string>
+    <string name="about">About</string>
+    <string name="sharePP">share</string>
+    <string name="_0">0</string>
+    <string name="keliling">keliling</string>
+    <string name="luas">luas</string>
+    <string name="hasil">hasil</string>
+    <string name="hitung">hitung</string>
+    <string name="lebar">lebar</string>
+    <string name="persegi_panjang">persegi_panjang</string>
+    <string name="share_PP">Persegi Panjang dengan Panjang %1$d dan Lebar %2$d mempunyai Luas %3$d dan Keliling %4$d</string>
+    <string name="share">Share</string>
+</resources>
